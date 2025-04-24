@@ -34,8 +34,6 @@ A smart web-based tool to summarize text using Google's Gemini API. Users can in
 - Choose tone of summary: Neutral, Formal, Casual
 - Responsive UI and clean experience
 
-## Screenshot
-*(Include one or two screenshots of the app in action)*
 
 ## License
 MIT
